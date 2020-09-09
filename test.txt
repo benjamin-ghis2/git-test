@@ -1,2 +1,2 @@
-test writing into a txt
+adding line 1
 adding line 2
